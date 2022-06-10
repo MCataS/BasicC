@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\bin\Debug\netcoreapp2.1\PrimeraPrueba.deps.json
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\bin\Debug\netcoreapp2.1\PrimeraPrueba.runtimeconfig.json
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\bin\Debug\netcoreapp2.1\PrimeraPrueba.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\bin\Debug\netcoreapp2.1\PrimeraPrueba.dll
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\bin\Debug\netcoreapp2.1\PrimeraPrueba.pdb
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\obj\Debug\netcoreapp2.1\PrimeraPrueba.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\obj\Debug\netcoreapp2.1\PrimeraPrueba.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\obj\Debug\netcoreapp2.1\PrimeraPrueba.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\obj\Debug\netcoreapp2.1\PrimeraPrueba.AssemblyInfo.cs
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\obj\Debug\netcoreapp2.1\PrimeraPrueba.dll
+C:\Users\usuario\Desktop\MCS\Est\C#\PrimeraPrueba\PrimeraPrueba\obj\Debug\netcoreapp2.1\PrimeraPrueba.pdb
